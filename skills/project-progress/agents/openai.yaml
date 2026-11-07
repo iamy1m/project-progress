@@ -1,0 +1,3 @@
+interface:
+  display_name: "项目过程与上下文维护"
+  short_description: "为跨会话或多阶段项目维护有效上下文、推进状态和验证依据入口"
